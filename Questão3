@@ -4,7 +4,7 @@ public class Aviao
 	 int altitude = 10;
 	 int velocidade = 900;
 	 
-	 public Aviao (int altitude = 10, int velocidade = 900) {
+	 public Aviao (int altitude, int velocidade) {
 	     this.altitude = altitude;
 	     this.velocidade = velocidade;
 	 }
